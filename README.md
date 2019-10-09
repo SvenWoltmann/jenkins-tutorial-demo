@@ -4,7 +4,7 @@ Code for my Jenkins tutorial explaining the installation and the major features 
 
 - [Jenkins Tutorial: Installation, Build and Release Jobs](https://www.happycoders.eu/jenkins-tutorial-installation-build-and-release-jobs/)
 - [Jenkins Tutorial: Creating jobs with the Jenkins Job DSL](https://www.happycoders.eu/jenkins-tutorial-creating-jobs-with-the-jenkins-job-dsl/)
-- Jenkins Tutorial: Implementing a Seed Job _(coming soon)_
+- [Jenkins Tutorial: Implementing a Seed Job](https://www.happycoders.eu/jenkins-tutorial-implementing-a-seed-job/)
 
 In the article series, you’ll learn in detail:
 
